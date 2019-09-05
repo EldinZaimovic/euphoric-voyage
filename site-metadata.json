@@ -4,7 +4,7 @@
   "accent_color": "blue",
   "header": {
     "title": "Euphoric Voyage",
-    "logo_img": "",
+    "logo_img": "/images/logo.png",
     "has_nav": true
   },
   "footer": {
