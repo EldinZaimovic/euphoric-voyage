@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our work.
-img_path: images/about.jpg
+img_path: ''
 menus:
   main:
     title: About
@@ -18,7 +18,7 @@ _Thank You for reading!_
 
 <iframe src="https://euphoric-voyage.travelmap.net" 
 	 width="100%" 
-	 height="100%" 
+	 height="600" 
 	 frameborder="0" 
 	 allowfullscreen>
 </iframe>
