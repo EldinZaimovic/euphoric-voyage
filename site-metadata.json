@@ -5,7 +5,7 @@
   "header": {
     "title": "Euphoric Voyage",
     "logo_img": "",
-    "has_nav": false
+    "has_nav": true
   },
   "footer": {
     "content": "&copy; Euphoric Voyage. All rights reserved.",
