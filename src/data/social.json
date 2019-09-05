@@ -7,24 +7,6 @@
       "url": "https://www.instagram.com/euphoric_voyage/"
     },
     {
-      "type": "twitter",
-      "title": "Twitter",
-      "icon": "fa-twitter",
-      "url": "https://twitter.com/"
-    },
-    {
-      "type": "dribbble",
-      "title": "Dribbble",
-      "icon": "fa-dribbble",
-      "url": "https://dribbble.com/"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
-    },
-    {
       "title": "Facebook",
       "icon": "fab fa-facebook-square",
       "url": "https://www.facebook.com/EuphoricVoyage"
