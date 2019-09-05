@@ -4,7 +4,7 @@
       "type": "instagram",
       "title": "Instagram",
       "icon": "fab fa-instagram",
-      "url": "https://www.instagram.com/"
+      "url": "https://www.instagram.com/euphoric_voyage/"
     },
     {
       "type": "twitter",
@@ -23,6 +23,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/"
+    },
+    {
+      "title": "Facebook",
+      "icon": "fab fa-facebook-square",
+      "url": "https://www.facebook.com/EuphoricVoyage"
     }
   ]
 }
