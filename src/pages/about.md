@@ -4,7 +4,7 @@ subtitle: This is a short page about us and our work.
 img_path: ''
 menus:
   main:
-    title: O putovanju
+    title: O programu
     weight: 4
 template: page
 ---
