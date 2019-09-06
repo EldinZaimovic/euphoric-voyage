@@ -13,20 +13,15 @@ sections:
         title: Banja Luka
       - content: "* Berlinski zid\r\n* Spomenik pobjede\r\n* Berlinska katedrala\r\n* Židovski muzej \r\n* Njemački parlament – Bundestag\r\n* Branderburška kapija\r\n* Aleksandrov trg i TV toranj\r\n* Muzej Gestapo - Topografija terora\r\n* Checkpoint Charlie"
         title: Berlin
-      - content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+      - content: "* Pomorski muzej\r\n* Kadriorg park\r\n* Muzej umjetnosti KUMU\r\n* Olafova crkva\r\n* Apoteka Gradske vijećnice\r\n* TV Toranj\r\n* Telliskivi Creative City"
         title: Talin
-      - content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
+      - content: "* Art Nouveau Distrikt\r\n* Muzej Okupacije Latvije\r\n* Katedrala Rige\r\n* Riški dvorac\r\n* Riga Geto i Muzej Holokausta\r\n* Kuća crnih glavi"
         title: Riga
-      - content: fgdffg
+      - content: "* Muzej žrtava genocida\r\n* Toranj Gediminas\r\n* Užupis\r\n* Vrata zore\r\n* Ulica Literatu\r\n* Frank Zappa Memorial"
         title: Vilnius
-      - content: fgdg
+      - content: "* Dvorac Schönbrunn\r\n* Palata Hofburg\r\n* Katedrala Svetog Stefana\r\n* Državna opera\r\n* Gradska vijećnica\r\n* Hundertwasserhaus muzej\r\n* Crkva Svetog Petra\r\n* Zabavni park Prater\r\n* Karlov trg"
         title: Beč
-    subtitle: An optional subtitle of the section
+    subtitle: Gdje idemo
     title: Put
     type: servicesblock
   - actions:
