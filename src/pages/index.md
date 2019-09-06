@@ -53,15 +53,11 @@ sections:
       - author: Eldin Zaimović
         avatar: /images/slika.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere.
-          Nullamhgjgghjhghjfggfhfhfghfghfghfghfghfgghfgh dapibus quis nunc non
-          interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Putovanja vas prvo ostave bez riječi, a onda vas pretvore u
+          pripovjedača.
       - author: Nerma Bašić
         avatar: /images/nerma.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+        content: Oni koji se ne kreću – ne primećuju svoje okove.
     title: Putnici
     type: testimonialsblock
 menus:
