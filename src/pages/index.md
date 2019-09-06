@@ -53,8 +53,9 @@ sections:
       - author: Eldin Zaimović
         avatar: /images/slika.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Vestibulum a nunc ut eros condimentum posuere.
+          Nullamhgjgghjhghjfggfhfhfghfghfghfghfghfgghfgh dapibus quis nunc non
+          interdum. Pellentesque tortor ligula, gravida ac commodo eu.
       - author: Nerma Bašić
         avatar: /images/nerma.jpg
         content: >-
