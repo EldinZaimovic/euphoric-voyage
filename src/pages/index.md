@@ -2,10 +2,7 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: |-
-      ![Euophoric Voyage logo](/images/logoop.png "Euophoric Voyage logo")
-
-      Tragom kulture
+    content: Tragom kulture
     section_id: hero
     title: Naše putovanje Evropom
     type: heroblock
