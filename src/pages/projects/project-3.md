@@ -2,7 +2,7 @@
 title: Talin
 subtitle: Estonija
 date: 2019-09-05T22:00:00.000Z
-thumb_img_path: /images/tallin.jpg
+thumb_img_path: /images/tallin_th.jpg
 content_img_path: /images/tallin.jpg
 template: project
 ---
