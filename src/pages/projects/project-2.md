@@ -3,7 +3,7 @@ title: Berlin
 subtitle: Njemačka
 date: 2019-09-05T22:00:00.000Z
 thumb_img_path: /images/berlin_th.jpg
-content_img_path: /images/berlin_panorama_mitte.jpg
+content_img_path: /images/berlin.jpg
 template: project
 ---
 Berlin je najveći i glavni grad Njemačke i nakon Londona drugi najveći grad Evropske unije. U vrijeme Hladnog rata od 1949. do 1990. bio je podijeljen na Istočni Berlin i Zapadni Berlin. Danas je Berlin jedan od najcjenjenijih gradova na svijetu zahvaljujući noćnom životu, umjetnosti, kulturi i foodie sceni, Berlin je oduvijek bio grad u središtu zbivanja.
