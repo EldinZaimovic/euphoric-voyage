@@ -44,7 +44,7 @@ sections:
           pripovjedača.
       - author: Nerma Bašić
         avatar: /images/nerma.jpg
-        content: Oni koji se ne kreću – ne primećuju svoje okove.
+        content: Oni koji se ne kreću – ne primjećuju svoje okove.
     title: Putnici
     type: testimonialsblock
 menus:
