@@ -1,7 +1,5 @@
 import React from "react"
 import PropTypes from "prop-types"
-import favicon from './static/images/favicon.png';
-<link rel="shortcut icon" type="image/png" href={favicon} />
 
 export default function HTML(props) {
   return (
