@@ -2,7 +2,7 @@
 title: Berlin
 subtitle: Njemačka
 date: 2019-09-05T22:00:00.000Z
-thumb_img_path: /images/berlin_panorama_mitte.jpg
+thumb_img_path: /images/berlin_th.jpg
 content_img_path: /images/berlin_panorama_mitte.jpg
 template: project
 ---
