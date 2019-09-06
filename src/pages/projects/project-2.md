@@ -1,16 +1,23 @@
 ---
-title: Project Title 2
-subtitle: Optional Project Subtitle
-date: '2019-04-30'
-thumb_img_path: images/2_thumb.jpg
-content_img_path: images/2.jpg
+title: Berlin
+subtitle: Njemačka
+date: 2019-09-05T22:00:00.000Z
+thumb_img_path: /images/berlin_panorama_mitte.jpg
+content_img_path: /images/berlin_panorama_mitte.jpg
 template: project
 ---
+Berlin je najveći i glavni grad Njemačke i nakon Londona drugi najveći grad Evropske unije. U vrijeme Hladnog rata od 1949. do 1990. bio je podijeljen na Istočni Berlin i Zapadni Berlin. Danas je Berlin jedan od najcjenjenijih gradova na svijetu zahvaljujući noćnom životu, umjetnosti, kulturi i foodie sceni, Berlin je oduvijek bio grad u središtu zbivanja.
 
-Urna duis convallis convallis tellus. Tincidunt id aliquet risus feugiat in ante metus dictum. Purus faucibus ornare suspendisse sed nisi lacus sed viverra. Vitae purus faucibus ornare suspendisse sed nisi lacus. Porttitor leo a diam sollicitudin tempor id eu nisl nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam. Aliquam ut porttitor leo a diam. Dictum at tempor commodo ullamcorper a lacus. Tortor consequat id porta nibh. Felis donec et odio pellentesque diam volutpat commodo. In nibh mauris cursus mattis molestie a iaculis. Morbi tincidunt ornare massa eget egestas purus viverra accumsan. Tempor commodo ullamcorper a lacus vestibulum. Ipsum nunc aliquet bibendum enim facilisis gravida neque.
+Najpoznatiji zid na svijetu (uz onaj kineski) sad postoji tek u dijelovima, ali i kao podsjetnik jedne promašene politike. Dio zida poznatiji kao "East Side Gallery", se proteže na više od kilometar, a kompletno je ukrašen raznim grafitima. Berlinski zid krije bogatu povijest i obavezna je postaja pri putovanju u Berlin.
 
->"Every great design begins with an even better story." - Lorinda Mamo
+Spomenik pobjede je 230 metara visok spomenik i postavljen je u čast pobjede nad Francuskom 1871. Na stubu se nalazi zlatni kip božice Viktorije. Ispo divovdkog kipa nalazi se platforma s koje se pruža prekrasan pogled na okolni park i Berlin.
 
-Tempor orci eu lobortis elementum nibh. Tincidunt dui ut ornare lectus. Sagittis purus sit amet volutpat consequat mauris nunc. Turpis egestas pretium aenean pharetra. Egestas congue quisque egestas diam. Interdum velit euismod in pellentesque massa. Sapien et ligula ullamcorper malesuada proin libero nunc. Elit at imperdiet dui accumsan sit amet nulla. Facilisi nullam vehicula ipsum a. Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper.
+Berlinska katedrala, u kojoj je svaki umjetnički pravac, prihvaćen od pruskih kraljeva i njemačkih careva, mijenjao oblik, prošlih pedeset godina bila je polagano obnavljana. Danas crkva blista u svom svojem arhitekturnom sjaju. Izvorno je bila katolička, ali u prvoj polovici 16. st. postaje protestanska.
 
-Risus in hendrerit gravida rutrum quisque. Adipiscing enim eu turpis egestas pretium aenean pharetra magna ac. Urna nec tincidunt praesent semper. Elementum nibh tellus molestie nunc non blandit massa enim. Pharetra diam sit amet nisl suscipit adipiscing bibendum est ultricies. Lorem mollis aliquam ut porttitor. Quam quisque id diam vel quam elementum pulvinar etiam non. Sed tempus urna et pharetra pharetra. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Tempor orci dapibus ultrices in iaculis nunc sed. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eu mi bibendum neque egestas congue quisque. Integer quis auctor elit sed vulputate mi sit. Nullam ac tortor vitae purus faucibus ornare suspendisse sed.
+Židovski muzej Berlin obuhvaća brojne zanimljive izložbe s naglaskom na njemačko-židovsku povijest i kulturu u razdoblju od oko 2000 godina.
+
+Jedan od Berlinovih muzeja koji izazivaju najviše razmišljanja jest zatvoreni i otvoreni objekt koji se zove topografija terora, sagrađena na mjestu bivšeg sjedišta nacističke zloglasne SS i Gestapo. Mjesto obilježava i granicu između istočne i zapadne zone Berlina i sadrži sačuvan dio bivšeg Berlinskog zida.
+
+Svaki grad ima svoj vrhunac, orijentir s kojim se cijela zemlja ponosi. U njemačkom glavnom gradu je televizijski toranj. Danas je to "ikona" Berlina. S visine objekta pruža nenadmašnu panoramu grada. Statistike pokazuju da je to orijentir najviša umjetna točka države. Godine 1964. Walter Ulbricht predložio je izgradnju televizijskog tornja na trgu Alexanderplatz.
+
+> Berlin je izabran za Evropski grad kulture 1988. godine.
