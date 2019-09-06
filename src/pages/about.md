@@ -1,10 +1,10 @@
 ---
-title: About Us
+title: O putovanju
 subtitle: This is a short page about us and our work.
 img_path: ''
 menus:
   main:
-    title: About
+    title: O putovanju
     weight: 4
 template: page
 ---
