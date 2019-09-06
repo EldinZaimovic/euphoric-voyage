@@ -15,10 +15,7 @@ sections:
           lijepi grad je okružen oblim zelenim brdima, a rijeka Vrbas ga dijeli
           na dva dijela.
         title: Banja Luka
-      - content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
+      - content: "* Berlinski zid\r\n* Spomenik pobjede\r\n* Berlinska katedrala\r\n* Židovski muzej \r\n* Njemački parlament – Bundestag\r\n* Branderburška kapija\r\n* Aleksandrov trg i TV toranj\r\n* Muzej Gestapo - Topografija terora\r\n* Checkpoint Charlie"
         title: Berlin
       - content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
