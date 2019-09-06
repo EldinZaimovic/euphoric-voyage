@@ -30,12 +30,12 @@ sections:
     component: PostsBlock
     num_posts_displayed: 2
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: Posljednje priče sa putovanja
     title: Posljednje sa Bloga
     type: postsblock
   - component: TestimonialsBlock
     section_id: putnici
-    subtitle: An optional subtitle of the section
+    subtitle: Ko smo?
     testimonialslist:
       - author: Eldin Zaimović
         avatar: /images/slika.jpg
