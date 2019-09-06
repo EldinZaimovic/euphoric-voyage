@@ -1,10 +1,9 @@
 ---
-title: Contact
+title: Kontakt
 menus:
   main:
-    title: Contact
+    title: Kontakt
     weight: 5
 template: contact
 ---
-
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below or send us an email at [example@example.com](mailto:example@example.com).
+Zdravo! Hvala na interesovanju. Molimo popunite formu ispod ili nam pišite na [info@euphoric-voyage.com](mailto:example@example.com).
