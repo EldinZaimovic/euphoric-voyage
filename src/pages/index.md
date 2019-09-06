@@ -10,9 +10,10 @@ sections:
     section_id: put
     serviceslist:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
+          Banja Luka je drugi najveći grad u BiH i zbog velikog broja zelenih
+          površina, parkova i aleja Banja Luka nosi epitet grada zelenila. Ovaj
+          lijepi grad je okružen oblim zelenim brdima, a rijeka Vrbas ga dijeli
+          na dva dijela.
         title: Banja Luka
       - content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
