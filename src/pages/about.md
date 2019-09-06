@@ -1,17 +1,25 @@
 ---
-title: O putovanju
-subtitle: This is a short page about us and our work.
-img_path: ''
+title: O takmičenju
+subtitle: ' „Moje putovanje Evropom“ - Nagradno takmičenje za sve mlade turiste'
+img_path: /images/t2eu_nagradno_takm_960x480.jpg
 menus:
   main:
-    title: O programu
+    title: O takmičenju
     weight: 4
 template: page
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Moje putovanje Evropom je projekat EU Info centra u BiH u okviru kojeg mladi do 35 godina imaju priliku da kroz takmičenje osmisle svoje idealno putovanje Evropom i dobiju mogućnost da im budu pokriveni troškovi tog putovanja u iznosu do 1.000 evra.
 
-> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+EU Info centar kroz ovo takmičenje želi da Uniju približi Balkanu, ali i obrnuto. Potrebna je doza inovativnosti - mladi bi trebalo da objasne šta ih privlači u Evropi, da osmisle putovanje i načine putovanja. Projekat "Moje putovanje Evropom" već nekoliko godina ima za cilj da mlade sa Balkana animira da putuju Evropom. 
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Originalni plan putovanja koji će obuhvatiti odgovore na sljedeća pitanja:
 
-_Thank You for reading!_
+* Koje destinacije i znamenitosti u Evropskoj uniji želite posjetiti?
+* Zašto su te destinacije interesantne?
+* Na koji način će posjeta ovim destinacijama i znamenitostima proširiti vaša saznanja o temeljnim vrijednostima Evropske unije?
+* Na koji način biste podijelili svoja iskustva sa mladima u BiH?
+* Koji je vaš plan putovanja? Kako namjeravate putovati, gdje planirate odsjedati?
+* Koje troškove i u kojem iznosu planirate u toku vašeg putovanja?
+* Zašto baš ti trebaš osvojiti ovu nagradu?
+
+Više o projektu na [web stranici](https://euinfo.ba/bs/travel-to-europe/62) EU Info centra.
