@@ -1,18 +1,27 @@
 ---
-title: Project Title 6
-subtitle: Optional Project Subtitle
-date: '2018-12-18'
-thumb_img_path: images/6_thumb.jpg
-content_img_path: images/6.jpg
+title: Beč
+subtitle: Austrija
+date: 2019-09-05T22:00:00.000Z
+thumb_img_path: /images/bec_th.jpg
+content_img_path: /images/bec.jpg
 template: project
 ---
+Sjedište nekoć moćnog Habsburškog carstva i dan danas pokazuje svu svoju ljepotu, koja se, omeđena Ringom, najviše koncentrisala u središtu grada. Na temelju bogate ostavštine iz doba Habsburgovaca, Beč je danas prava evropska kulturna prijestolnica.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse faucibus interdum posuere lorem ipsum dolor. Malesuada fames ac turpis egestas sed tempus urna et. Non odio euismod lacinia at quis risus. Nisl vel pretium lectus quam id leo in vitae turpis. Dolor sit amet consectetur adipiscing elit ut. Id donec ultrices tincidunt arcu non sodales neque sodales ut. Risus ultricies tristique nulla aliquet enim. Nulla aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Et leo duis ut diam. Auctor neque vitae tempus quam pellentesque. Scelerisque in dictum non consectetur a erat nam at. Quisque sagittis purus sit amet volutpat consequat. Vulputate enim nulla aliquet porttitor lacus.
+Beč krasi više dvoraca, ali vodeću ulogu u impresivnosti s ponosom odnosi Schönbrunn! Veličanstvena palača uređena u baroknom stilu koja sadrži više od 1400 prostorija.
 
->"Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated." - Paul Rand,
+Palata Hofburg je historijski najznačajnija palata u Beču. Hofburg je bilo sjedište svih austrijskih vladara još od 1275. godine, a danas je sjedište predsjednika ove zemlje.
 
-Nisl purus in mollis nunc sed id semper. Congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Etiam erat velit scelerisque in dictum non consectetur. Tincidunt praesent semper feugiat nibh sed pulvinar proin gravida hendrerit. Cursus eget nunc scelerisque viverra mauris in aliquam sem. Aliquam id diam maecenas ultricies mi eget mauris pharetra. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Elit at imperdiet dui accumsan. Senectus et netus et malesuada fames ac turpis. Justo nec ultrices dui sapien eget mi proin sed libero. Aliquet eget sit amet tellus cras adipiscing enim eu turpis. Nisl purus in mollis nunc sed id. Elit duis tristique sollicitudin nibh sit. Duis ultricies lacus sed turpis. Porttitor eget dolor morbi non. Scelerisque eu ultrices vitae auctor eu augue ut. At urna condimentum mattis pellentesque id. Massa eget egestas purus viverra accumsan. Fermentum dui faucibus in ornare quam. Pharetra vel turpis nunc eget lorem.
+Katedrala sv. Stefana izgrađena je 1722. godine i bez dileme je najznačajnije gotičko zdanje ovoga grada, locirano u njegovom strogom centru.
 
-Sodales neque sodales ut etiam sit amet nisl. Sodales ut etiam sit amet nisl purus. Nisi vitae suscipit tellus mauris a diam maecenas sed. Egestas purus viverra accumsan in nisl nisi scelerisque. Gravida cum sociis natoque penatibus et magnis dis parturient. In hac habitasse platea dictumst vestibulum. Cras semper auctor neque vitae tempus quam pellentesque nec nam. Tellus integer feugiat scelerisque varius morbi enim nunc. Ultricies mi eget mauris pharetra et ultrices neque ornare. Vitae suscipit tellus mauris a diam. Commodo viverra maecenas accumsan lacus vel. Libero id faucibus nisl tincidunt eget nullam.
+Bečka državna opera jedna je od najvećih operskih kuća u Evropi. Tokom svojih 150 godina postojanja, ugostila je mnoge eminentne muzičare, dirigente, plesače i soliste, a tokom godine ovdje se održi više od 300 nastupa!
 
-Nibh praesent tristique magna sit amet purus gravida. Aenean pharetra magna ac placerat vestibulum lectus mauris. Nulla aliquet enim tortor at auctor. Lobortis elementum nibh tellus molestie. Vitae proin sagittis nisl rhoncus mattis. Velit scelerisque in dictum non consectetur a erat. Elementum curabitur vitae nunc sed. Nisl nisi scelerisque eu ultrices vitae auctor eu. Proin libero nunc consequat interdum varius sit. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Turpis cursus in hac habitasse. Adipiscing elit pellentesque habitant morbi tristique.
+Bečka gradska vijećnica (Rathaus) je impresivna neogotička građevina koja služi kao administrativno središte grada. Ova atraktivna zgrada dovršena je 1883. godine i izvanredna je zbog svoje veličine.
+
+Završena 1985., Hundertwasser kuća jedno je od najposjećenijih mjesta u Beču. To je gradski stambeni blok koji je Hundertwasser stvorio želeći se suprotstaviti onome što je smatrao modernom arhitekturom bez duše. Zgrada koja je nastala, s nepravilnim prozorima, šarenim bojama i lukovičastim kupolama, kontroverzna je od svoje izgradnje.
+
+Modelirajući na sv. Petru u Rimu, kolegijalna i župna crkva sv. Petra (Peterskirche) izgrađena je na mjestu koje je izvorno zauzela rimska crkva, a kasnije je utemeljio Karlo Veliki 792. godine. Današnja zgrada sagrađena je u 18. stoljeću i ima masivnu kupolu s vrsnom freskom i mnogim umjetničkim blagom.
+
+Prater sadrži zabavni park Wurstelprater i Riesenrad, panoramski kotač iz 19. stoljeća, koji je postavljen zbog održanja Svjetske izložbe.
+
+Karlov trg (Karlsplatz) je jedan od najprometnijih trgova u Beču. Na samom trgu nalazi se i istoimena crkva – Karlskirche izgrađena 1737. godine u baroknom stilu sa elementima rokokoa. Karlova crkva smatra se i najljepšom crkvom u Beču.
