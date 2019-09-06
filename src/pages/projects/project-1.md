@@ -2,7 +2,7 @@
 title: Banja Luka
 subtitle: Bosna i Hercegovina
 date: 2019-09-05T22:00:00.000Z
-thumb_img_path: /images/bl.jpg
+thumb_img_path: /images/bl_th.jpg
 content_img_path: /images/bl.jpg
 template: project
 ---
