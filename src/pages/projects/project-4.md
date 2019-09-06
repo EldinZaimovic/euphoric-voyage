@@ -2,7 +2,7 @@
 title: Riga
 subtitle: Latvija
 date: 2019-09-05T22:00:00.000Z
-thumb_img_path: /images/riga.jpg
+thumb_img_path: /images/riga_th.jpg
 content_img_path: /images/riga.jpg
 template: project
 ---
