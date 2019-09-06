@@ -10,7 +10,7 @@ const safePrefix = require("./src/utils/safePrefix").default;
 exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
 
     setHeadComponents([
-        <link key="icon" rel="icon" href="/static/images/favicon.png" />
+        <link key="icon" rel="icon" href="./static/images/favicon.png" />
     ]);
 
     setPostBodyComponents([
