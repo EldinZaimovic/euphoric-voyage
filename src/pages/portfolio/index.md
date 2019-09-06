@@ -1,6 +1,6 @@
 ---
 title: Gradovi
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Koje planiramo posjetiti
 layout_style: tiles
 menus:
   main:
