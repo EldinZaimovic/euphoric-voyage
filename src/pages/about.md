@@ -12,7 +12,7 @@ Moje putovanje Evropom je projekat EU Info centra u BiH u okviru kojeg mladi do 
 
 EU Info centar kroz ovo takmičenje želi da Uniju približi Balkanu, ali i obrnuto. Potrebna je doza inovativnosti - mladi bi trebalo da objasne šta ih privlači u Evropi, da osmisle putovanje i načine putovanja. Projekat "Moje putovanje Evropom" već nekoliko godina ima za cilj da mlade sa Balkana animira da putuju Evropom. 
 
-Originalni plan putovanja koji će obuhvatiti odgovore na sljedeća pitanja:
+Originalni plan putovanja treba obuhvatiti odgovore na sljedeća pitanja:
 
 * Koje destinacije i znamenitosti u Evropskoj uniji želite posjetiti?
 * Zašto su te destinacije interesantne?
