@@ -1,18 +1,19 @@
 ---
-title: Project Title 4
-subtitle: Optional Project Subtitle
-date: '2019-02-26'
-thumb_img_path: images/4_thumb.jpg
-content_img_path: images/4.jpg
+title: Riga
+subtitle: Latvija
+date: 2019-09-05T22:00:00.000Z
+thumb_img_path: /images/riga.jpg
+content_img_path: /images/riga.jpg
 template: project
 ---
+Najveća metropola Baltika te glavni grad Latvije, Riga, smještena je na obalama Baltičkog mora te na ušću rijeke Zapadne Dvine. Riga je važno kulturno, znanstveno, historijsko, financijsko i političko središte cijelog Baltika.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Justo eget magna fermentum iaculis eu non diam. Id volutpat lacus laoreet non. Faucibus pulvinar elementum integer enim. Malesuada fames ac turpis egestas integer eget aliquet nibh. Turpis massa sed elementum tempus. Potenti nullam ac tortor vitae purus faucibus. Duis ut diam quam nulla porttitor massa. Ultrices dui sapien eget mi proin sed libero enim. Nibh venenatis cras sed felis eget velit aliquet. Nec ullamcorper sit amet risus nullam. Duis at tellus at urna. Pulvinar elementum integer enim neque. Amet cursus sit amet dictum sit amet justo. Aliquam nulla facilisi cras fermentum odio eu. Cursus in hac habitasse platea dictumst quisque sagittis. Euismod nisi porta lorem mollis aliquam ut porttitor leo.
+Najvažniji dio grada je centar Rige gdje se nalaze i historijski dijelovi grada i najpoznatije znamenitosti Rige. Ovaj dio još se naziva i Art Nouveau District, a upravo je radi njega Riga postala glavni kulturološki grad sjeverne Evrope.
 
-Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Ornare arcu dui vivamus arcu felis bibendum. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Ut sem nulla pharetra diam sit amet nisl suscipit. Fermentum leo vel orci porta. Facilisis volutpat est velit egestas. Et pharetra pharetra massa massa ultricies mi quis. Id aliquet risus feugiat in ante metus dictum at tempor. Magna fermentum iaculis eu non diam phasellus. Tellus cras adipiscing enim eu turpis egestas.
+Muzej okupacije Latvije je osnovan 1993. godine u središtu Rige. Svrha ovog muzeja je naglasiti historiju Latvije u razdoblju od 1940. do 1991. godine. To je razdoblje okupacije Latvije dva totalitarna režima tog vremena.
 
->"Designers are meant to be loved, not to be understood." - Margaret Oscar
+Impozantni Riški dvorac smješten je uz obalu rijeke Daugave i jedan je od najvećih srednjovjekovnih dvoraca u Latviji s dugom i uzbudljivom historijom. Danas je dvorac službena rezidencija predsjednika Latvije.
 
-Orci ac auctor augue mauris augue neque. Id semper risus in hendrerit gravida rutrum quisque. Et leo duis ut diam quam nulla porttitor massa. Condimentum vitae sapien pellentesque habitant morbi. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Hendrerit dolor magna eget est lorem ipsum dolor sit. Ipsum dolor sit amet consectetur. Eu augue ut lectus arcu bibendum at. Etiam non quam lacus suspendisse. Leo integer malesuada nunc vel. Consequat id porta nibh venenatis. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam.
+Zgrada koje je najupečatljivija i nalazi se ubedljivo na svim fotografijama iz Rige jeste Kuća crnih glava. Sagrađena je 1334. godine za potrebe udruženja trgovaca i zanatlija koje su sebe nazvali Crnoglavi (njihov zaštitnik je bio sv. Mauricijus, crni ratnik u oklopu).
 
-Tortor consequat id porta nibh. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Ante metus dictum at tempor. Consectetur adipiscing elit ut aliquam purus. Mauris in aliquam sem fringilla. Sed adipiscing diam donec adipiscing tristique. Posuere ac ut consequat semper viverra nam libero justo. Vulputate ut pharetra sit amet aliquam id diam maecenas ultricies. Molestie nunc non blandit massa enim nec. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Ac turpis egestas integer eget aliquet. Consectetur purus ut faucibus pulvinar elementum integer enim. Quis ipsum suspendisse ultrices gravida dictum fusce. Elit ullamcorper dignissim cras tincidunt lobortis. Non enim praesent elementum facilisis leo vel. Mi ipsum faucibus vitae aliquet nec ullamcorper. Nisl suscipit adipiscing bibendum est ultricies integer quis auctor elit. Senectus et netus et malesuada fames. Massa sed elementum tempus egestas sed sed.
+> Riga je 2014. godine izabrana za Evropski grad kulture zajedno sa švedskom Umeom s kojom je osim zajedničkih promotivnih aktivnosti isplanirana i programska suradnja.
