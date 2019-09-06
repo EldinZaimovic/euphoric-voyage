@@ -9,29 +9,33 @@ sections:
     title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
     type: heroblock
   - component: ServicesBlock
-    section_id: services
+    section_id: put
     serviceslist:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla tortor at, pulvinar orci.
-        title: Service Title
+        title: Banja Luka
       - content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius. 
-        title: Service Title
+        title: Berlin
       - content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        title: Service title
+        title: Talin
       - content: >-
           Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
           justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
           lorem ipsum, non efficitur urna viverra et.
-        title: Service title
+        title: Riga
+      - content: fgdffg
+        title: Vilnius
+      - content: fgdg
+        title: Beč
     subtitle: An optional subtitle of the section
-    title: What We Do
+    title: Put
     type: servicesblock
   - actions:
       - label: View Blog
@@ -43,21 +47,21 @@ sections:
     title: Latest from the Blog
     type: postsblock
   - component: TestimonialsBlock
-    section_id: testimonials
+    section_id: putnici
     subtitle: An optional subtitle of the section
     testimonialslist:
-      - author: John Doe
+      - author: Eldin Zaimović
         avatar: images/john_doe.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
+      - author: Nerma Bašić
         avatar: images/jane_roe.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
-    title: Testimonials
+    title: Putnici
     type: testimonialsblock
 menus:
   main:
