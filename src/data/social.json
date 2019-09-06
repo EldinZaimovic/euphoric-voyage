@@ -10,6 +10,11 @@
       "title": "Facebook",
       "icon": "fab fa-facebook-square",
       "url": "https://www.facebook.com/EuphoricVoyage"
+    },
+    {
+      "title": "Twitter",
+      "icon": "fab fa-twitter-square",
+      "url": "https://twitter.com/EldinMatricar"
     }
   ]
 }
