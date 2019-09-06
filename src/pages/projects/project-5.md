@@ -2,7 +2,7 @@
 title: Vilnius
 subtitle: Litvanija
 date: 2019-09-05T22:00:00.000Z
-thumb_img_path: /images/vilnius.jpg
+thumb_img_path: /images/vilnius_th.jpg
 content_img_path: /images/vilnius.jpg
 template: project
 ---
