@@ -9,11 +9,7 @@ sections:
   - component: ServicesBlock
     section_id: put
     serviceslist:
-      - content: >-
-          Banja Luka je drugi najveći grad u BiH i zbog velikog broja zelenih
-          površina, parkova i aleja Banja Luka nosi epitet grada zelenila. Ovaj
-          lijepi grad je okružen oblim zelenim brdima, a rijeka Vrbas ga dijeli
-          na dva dijela.
+      - content: "* Tvrđava Kastel\r\n* Gospodska ulica\r\n* Hram Hrista Spasitelja\r\n* Ferhadija"
         title: Banja Luka
       - content: "* Berlinski zid\r\n* Spomenik pobjede\r\n* Berlinska katedrala\r\n* Židovski muzej \r\n* Njemački parlament – Bundestag\r\n* Branderburška kapija\r\n* Aleksandrov trg i TV toranj\r\n* Muzej Gestapo - Topografija terora\r\n* Checkpoint Charlie"
         title: Berlin
