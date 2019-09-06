@@ -51,7 +51,7 @@ sections:
     subtitle: An optional subtitle of the section
     testimonialslist:
       - author: Eldin Zaimović
-        avatar: images/john_doe.jpg
+        avatar: /images/slika.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
