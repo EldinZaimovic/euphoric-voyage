@@ -18,7 +18,7 @@ sections:
       - author: Nerma Bašić
         avatar: /images/nerma-slika.jpg
         content: >-
-          Jednom godišnje, idite na neko mesto na kome nikada to tada niste
+          Jednom godišnje, idite na neko mjesto na kome nikada do tada niste
           bili.
     title: Putnici
     type: testimonialsblock
