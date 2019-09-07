@@ -1,10 +1,6 @@
 ---
 title: Home
 sections:
-  - component: ContentBlock
-    image: /images/logoop.png
-    title: EU
-    type: contentblock
   - component: HeroBlock
     content: Tragom kulture
     section_id: hero
