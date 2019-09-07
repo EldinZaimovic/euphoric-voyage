@@ -6,6 +6,22 @@ sections:
     section_id: hero
     title: Naše putovanje Evropom
     type: heroblock
+  - component: TestimonialsBlock
+    section_id: putnici
+    subtitle: Ko smo?
+    testimonialslist:
+      - author: Eldin Zaimović
+        avatar: /images/ja.jpg
+        content: >-
+          Putovanja vas prvo ostave bez riječi, a onda vas pretvore u
+          pripovjedača.
+      - author: Nerma Bašić
+        avatar: /images/nerma-slika.jpg
+        content: >-
+          Jednom godišnje, idite na neko mesto na kome nikada to tada niste
+          bili.
+    title: Putnici
+    type: testimonialsblock
   - component: ServicesBlock
     section_id: put
     serviceslist:
@@ -24,20 +40,6 @@ sections:
     subtitle: Gdje idemo
     title: Put
     type: servicesblock
-  - component: TestimonialsBlock
-    section_id: putnici
-    subtitle: Ko smo?
-    testimonialslist:
-      - author: Eldin Zaimović
-        avatar: /images/ja.jpg
-        content: >-
-          Putovanja vas prvo ostave bez riječi, a onda vas pretvore u
-          pripovjedača.
-      - author: Nerma Bašić
-        avatar: /images/nerma-slika.jpg
-        content: Oni koji se ne kreću – ne primjećuju svoje okove.
-    title: Putnici
-    type: testimonialsblock
   - actions:
       - label: View Blog
         url: blog/index.html
