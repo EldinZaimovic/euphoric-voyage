@@ -29,12 +29,12 @@ sections:
     subtitle: Ko smo?
     testimonialslist:
       - author: Eldin Zaimović
-        avatar: /images/slika.jpg
+        avatar: /images/ja.jpg
         content: >-
           Putovanja vas prvo ostave bez riječi, a onda vas pretvore u
           pripovjedača.
       - author: Nerma Bašić
-        avatar: /images/nerma.jpg
+        avatar: /images/nerma-slika.jpg
         content: Oni koji se ne kreću – ne primjećuju svoje okove.
     title: Putnici
     type: testimonialsblock
