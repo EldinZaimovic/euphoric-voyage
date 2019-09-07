@@ -16,7 +16,7 @@ template: page
 
 <iframe src="https://euphoric-voyage.travelmap.net" 
 	 width="100%" 
-	 height="600" 
+	 height="900" 
 	 frameborder="0" 
 	 allowfullscreen>
 </iframe>
