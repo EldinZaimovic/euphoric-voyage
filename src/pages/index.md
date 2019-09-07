@@ -24,15 +24,6 @@ sections:
     subtitle: Gdje idemo
     title: Put
     type: servicesblock
-  - actions:
-      - label: View Blog
-        url: blog/index.html
-    component: PostsBlock
-    num_posts_displayed: 2
-    section_id: latest-posts
-    subtitle: Posljednje priče sa putovanja
-    title: Posljednje sa Bloga
-    type: postsblock
   - component: TestimonialsBlock
     section_id: putnici
     subtitle: Ko smo?
@@ -47,6 +38,15 @@ sections:
         content: Oni koji se ne kreću – ne primjećuju svoje okove.
     title: Putnici
     type: testimonialsblock
+  - actions:
+      - label: View Blog
+        url: blog/index.html
+    component: PostsBlock
+    num_posts_displayed: 2
+    section_id: latest-posts
+    subtitle: Posljednje priče sa putovanja
+    title: Posljednje sa Bloga
+    type: postsblock
 menus:
   main:
     title: Home
