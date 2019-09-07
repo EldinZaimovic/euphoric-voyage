@@ -17,9 +17,7 @@ sections:
           pripovjedača.
       - author: Nerma Bašić
         avatar: /images/nerma-slika.jpg
-        content: >-
-          Jednom godišnje, idite na neko mjesto na kome nikada do tada niste
-          bili.
+        content: 'Jednom godišnje, idite na neko mjesto gdje ranije nikada niste bili.'
     title: Putnici
     type: testimonialsblock
   - component: ServicesBlock
