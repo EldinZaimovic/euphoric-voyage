@@ -22,4 +22,4 @@ Originalni plan putovanja treba obuhvatiti odgovore na sljedeća pitanja:
 * Koje troškove i u kojem iznosu planirate u toku vašeg putovanja?
 * Zašto baš ti trebaš osvojiti ovu nagradu?
 
-Više o projektu na [web stranici](https://euinfo.ba/bs/travel-to-europe/62 "target="_blank) EU Info centra.
+Više o projektu na [web stranici](https://euinfo.ba/bs/travel-to-europe/62) EU Info centra.
