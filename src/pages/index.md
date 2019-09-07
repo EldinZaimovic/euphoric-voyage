@@ -1,11 +1,11 @@
 ---
 title: Home
 sections:
+  - component: ContentBlock
+    image: /images/logoop.png
+    type: contentblock
   - component: HeroBlock
-    content: |-
-      ![](/images/logoop.png)
-
-      Tragom kulture
+    content: Tragom kulture
     section_id: hero
     title: Naše putovanje Evropom
     type: heroblock
