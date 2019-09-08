@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b770b6c-5216-4d7e-8992-30984cd74c84/deploy-status)](https://app.netlify.com/sites/euphoric-voyage-18dd7/deploys)
+
 # Running Your Site Locally
 
 1. Install [Node.js and npm](https://nodejs.org/en/)
