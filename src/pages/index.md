@@ -35,7 +35,7 @@ sections:
         title: Vilnius
       - content: "* Dvorac Schönbrunn\r\n* Palata Hofburg\r\n* Katedrala Svetog Stefana\r\n* Državna opera\r\n* Gradska vijećnica\r\n* Hundertwasserhaus muzej\r\n* Crkva Svetog Petra\r\n* Zabavni park Prater\r\n* Karlov trg"
         title: Beč
-    subtitle: Gdje idemo
+    subtitle: Gdje idemo?
     title: Put
     type: servicesblock
   - actions:
