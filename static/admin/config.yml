@@ -563,8 +563,8 @@ collections:
   - name: portfolio
     label: Portfolio
     files:
-      - name: portfolio
-        label: Portfolio
+      - name: gradovi
+        label: Gradovi
         file: src/pages/gradovi/index.md
         fields:
           - widget: string
@@ -621,8 +621,8 @@ collections:
             label: Template
             required: true
             default: portfolio
-  - name: contact
-    label: Contact
+  - name: kontakt
+    label: Kontakt
     files:
       - name: contact
         label: Contact
