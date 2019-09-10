@@ -626,7 +626,7 @@ collections:
     files:
       - name: contact
         label: Contact
-        file: src/pages/contact.md
+        file: src/pages/kontakt.md
         fields:
           - widget: string
             name: title
