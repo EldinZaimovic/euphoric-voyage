@@ -560,8 +560,8 @@ collections:
             label: Template
             required: true
             default: blog
-  - name: portfolio
-    label: Portfolio
+  - name: gradovi
+    label: Gradovi
     files:
       - name: gradovi
         label: Gradovi
@@ -624,8 +624,8 @@ collections:
   - name: kontakt
     label: Kontakt
     files:
-      - name: contact
-        label: Contact
+      - name: kontakt
+        label: Kontakt
         file: src/pages/kontakt.md
         fields:
           - widget: string
