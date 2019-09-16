@@ -15,7 +15,7 @@ export default class Body extends React.Component {
                     <title>{_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - '}{_.get(this.props, 'pageContext.site.siteMetadata.title')}</title>
                     <meta charSet="utf-8"/>
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
-                    <meta name="description" content={_.get(this.props, 'pageContext.site.siteMetadata.title') + ' '+ _.get(this.props, 'pageContext.frontmatter.title')+ ' ' + _.get(this.props, 'pageContext.frontmatter.subtitle') + ' '+ _.get(this.props, 'pageContext.frontmatter.sections')}/>
+                    <meta name="description" content={_.get(this.props, 'pageContext.site.siteMetadata.title') + ' '+ _.get(this.props, 'pageContext.frontmatter.title')+ ' ' + _.get(this.props, 'pageContext.frontmatter.subtitle')}/>
                     <meta name="google" content="notranslate" />
                     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
