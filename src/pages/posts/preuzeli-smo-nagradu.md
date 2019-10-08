@@ -8,4 +8,5 @@ template: post
 ---
 Danas smo bili u gradu koji ćemo prvi posjetiti na našem putovanju, Banjaluci. Preuzeli smo nagradu u EU Info Centru, slikali se, prošetali Gospodskom ulicom i popili kafu. 
 Veselimo se ponovnom susretu sa Banjalukom kada ćemo detaljnije istražiti i upoznati ovaj grad.
+
 Pratite naše putovanje na instagramu. Zaprati nas na [@euphoric_voyage](https://www.instagram.com/euphoric_voyage/).
